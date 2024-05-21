@@ -1,7 +1,4 @@
-import {
-  BrowserRouter as Router,
-  Route,
-} from "react-router-dom/cjs/react-router-dom.min";
+import { BrowserRouter as Router, Route } from "react-router-dom/cjs/react-router-dom.min";
 import React, { useEffect, useState } from "react";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
